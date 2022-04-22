@@ -37,7 +37,7 @@ Stowarzyszenia. Od tego momentu rozpoczyna się okres dwóch tygodni karencji.
 14b. W trakcie trwania okresu karencji, jeżeli zostanie złożona na ręce Zarządu, pisemna
 notyfikacja, przez co najmniej trójkę Członków, Zarząd musi zwołać Walne Zgromadzenie
 Członków.
-14c. Walne Zgromadzenie Członków, zwołane na podstawie Rdz. IV, pkt. 17, może wyrazić
+14c. Walne Zgromadzenie Członków, zwołane na podstawie Rdz. IV, pkt. 14b, może wyrazić
 sprzeciw wobec przyjęcia kandydata na Członka, w formie uchwały.
 14d. Po upływie okresu karencji, braku sprzeciwu Walnego Zgromadzenia Członków oraz
 akceptacji przez Zarząd, przyjęcie do grona Członków Stowarzyszenia, odbywa się
@@ -92,7 +92,7 @@ dotychczasowego członka zarządu.
 24. Członkowie mają obowiązek:
 a. uczestniczyć w zebraniach;
 b. opłacać terminowo ewentualne składki członkowskie.
-c. brać czynny udział w organizacji wydarzeń określonych w punkcie 14 c) Regulaminu;
+c. brać czynny udział w organizacji wydarzeń określonych w punkcie 13 d) Regulaminu;
 25. Członkowie mają prawo do:
 a. korzystania z majątku Stowarzyszenia;
 b. otrzymania upominku od Stowarzyszenia w dniu swoich urodzin.
