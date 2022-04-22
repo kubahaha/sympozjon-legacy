@@ -10,7 +10,7 @@ Regulamin
 5. Stowarzyszenie ulega rozwiązaniu na podstawie uchwały Walnego Zgromadzenia Członków.
 6. Działalność Stowarzyszenia jest regulowana regulaminem Stowarzyszenia.
 6a. Logotyp Stowarzyszenia jest regulowany odpowiednią uchwałą.
-8. Zmiana regulaminu jest możliwa na Walnym Zgromadzeniu Członków, w obecności co najmniej połowy członków Stowarzyszenia.
+7. Zmiana regulaminu jest możliwa na Walnym Zgromadzeniu Członków, w obecności co najmniej połowy członków Stowarzyszenia.
 
 ## II. Finanse
 
@@ -52,7 +52,7 @@ c. śmierci.
 
 16. Do kompetencji Walnego Zgromadzenia Członków należy:
 a. zmienianie i uchwalanie Regulaminu;
-b. przyjmowanie nowych osób w poczet członków Stowarzyszenia;
+b. *(skreślony)*;
 c. uchwalanie wysokości składek członkowskich.
 17. Walne Zgromadzenie Członków przyjmuje uchwały większością głosów w głosowaniu jawnym w obecności co najmniej połowy członków Stowarzyszenia, chyba że regulamin stanowi inaczej:
 a. w przypadku nieobecności połowy członków Stowarzyszenia do ważności uchwały wystarcza obecność całego zarządu Stowarzyszenia na Walnym Zgromadzeniu
@@ -76,7 +76,7 @@ członków o terminie nie później niż na 24 godziny przed datą zebrania.
 e. określenie głównych kierunków działania i rozwoju Stowarzyszenia;
 f.przyjmowanie nowych osób w poczet członków Stowarzyszenia;
 g. ogłaszania zbiórek materiałów na określone cele.
-18. Zarząd ogłasza swoje decyzje za pomocą rozporządzeń. Rozporządzenia nie mogą być sprzeczne z uchwałami.
+18a. Zarząd ogłasza swoje decyzje za pomocą rozporządzeń. Rozporządzenia nie mogą być sprzeczne z uchwałami.
 19. Do zwołania walnego zebrania członków konieczna jest decyzja co najmniej jednegoczłonka zarządu
 a. pozostałe decyzje zarząd podejmuje większością 100% głosów.
 20. Zarząd jest zobowiązany prowadzić rejestr uchwał, dostępny dla każdego z członków Stowarzyszenia w formie elektronicznej.
@@ -96,3 +96,9 @@ c. brać czynny udział w organizacji wydarzeń określonych w punkcie 13 d) Reg
 25. Członkowie mają prawo do:
 a. korzystania z majątku Stowarzyszenia;
 b. otrzymania upominku od Stowarzyszenia w dniu swoich urodzin.
+26. Zarząd ma obowiązek:
+a. kierować Stowarzyszeniem w sposób odpowiedzialny;
+b. prowadzić rejestr uchwał, dostępny dla każdego z członków Stowarzyszenia w
+formie elektronicznej;
+c. zwołać przynajmniej jedno Walne Zgromadzenie Członków, w trakcie każdej z
+kalendarzowych pór roku.
