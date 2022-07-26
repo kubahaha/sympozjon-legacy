@@ -77,7 +77,7 @@ członków o terminie nie później niż na 24 godziny przed datą zebrania.
 f. określenie głównych kierunków działania i rozwoju Stowarzyszenia;
 g.przyjmowanie nowych osób w poczet członków Stowarzyszenia;
 h. ogłaszania zbiórek materiałów na określone cele.
-18a. Zarząd ogłasza swoje decyzje za pomocą rozporządzeń. Rozporządzenia nie mogą być sprzeczne z uchwałami.
+18auu. Zarząd ogłasza swoje decyzje za pomocą rozporządzeń. Rozporządzenia nie mogą być sprzeczne z uchwałami.
 19. Do zwołania walnego zebrania członków konieczna jest decyzja co najmniej jednegoczłonka zarządu
 a. pozostałe decyzje zarząd podejmuje większością 100% głosów.
 20. Zarząd jest zobowiązany prowadzić rejestr uchwał, dostępny dla każdego z członków Stowarzyszenia w formie elektronicznej.
@@ -94,9 +94,10 @@ dotychczasowego członka zarządu.
 a. uczestniczyć w zebraniach;
 b. opłacać terminowo ewentualne składki członkowskie.
 c. brać czynny udział w organizacji wydarzeń określonych w punkcie 13 d) Regulaminu;
+d. przynajmniej raz w roku odwiedzić Górę Kraka dokumentując to zdjęciem
 25. Członkowie mają prawo do:
 a. korzystania z majątku Stowarzyszenia;
-b. otrzymania upominku od Stowarzyszenia w dniu swoich urodzin.
+b. otrzymania upominku od Stowarzyszenia w dniu swoich urodzin oraz imienin.
 26. Zarząd ma obowiązek:
 a. kierować Stowarzyszeniem w sposób odpowiedzialny;
 b. prowadzić rejestr uchwał, dostępny dla każdego z członków Stowarzyszenia w
